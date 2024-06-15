@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Halif Fauzy<br><br>A web developer from Indonesia
+Hi 👋, I'm Halif Fauzy<br><br>A Web Developer from Indonesia
 
 
 ## 🌐 Socials:
