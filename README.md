@@ -1,11 +1,7 @@
 # 💫 About Me:
 Hi 👋, I'm Halif Fauzy<br><br>A Web Developer from Indonesia
 
-👋 Halo! Saya seorang Web Developer dengan fokus pada pengembangan backend dan integrasi teknologi modern.
-💼 Berpengalaman menggunakan JavaScript, React, Next.js, dan Express.js, serta backend tools seperti Prisma ORM, MySQL, dan Supabase.
-🌐 Sering membangun dan meng-host aplikasi di Vercel, dengan tambahan styling dari Tailwind CSS dan Bootstrap.
 💡 Selalu terbuka untuk belajar dan berkolaborasi dalam project backend dan full-stack.
-📫 Yuk, terhubung! [LinkedIn](https://linkedin.com/in/username) | [Twitter](https://twitter.com/username)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_fauzy16) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/halif-fauzy) 
