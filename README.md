@@ -1,7 +1,7 @@
 # 💫 About Me:
-Hi 👋, I'm Halif Fauzy<br><br>A Web Developer from Indonesia
+Hi 👋, I'm Halif Fauzy<br><br>A Fullstack Developer from Indonesia
 
-💡 Selalu terbuka untuk belajar dan berkolaborasi dalam project backend dan full-stack.
+💡 Selalu terbuka untuk belajar dan berkolaborasi dalam project full-stack.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fz_code4fun) [![LinkedIn](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/halif-fauzy) [![Github](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/fauzyDev)
