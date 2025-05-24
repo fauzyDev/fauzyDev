@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Halif Fauzy<br><br>A Fullstack Developer from Indonesia
+Hi 👋, I'm Halif Fauzy<br><br>A Junior Fullstack Web Developer | Next.js + Express.js | Real Project Builder | AI & Web3 Explorer from Indonesia
 
 💡 Selalu terbuka untuk belajar dan berkolaborasi dalam project full-stack.
 
